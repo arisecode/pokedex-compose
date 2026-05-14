@@ -25,7 +25,7 @@ startupRuntime = "1.2.0"
 timber = "5.0.1"
 ktlint = "12.1.0"
 kmpalette = "3.1.0"
-rebugger = "1.0.0-rc03"
+rebugger = "1.0.1"
 
 [libraries]
 androidx-animation = { module = "androidx.compose.animation:animation", version.ref = "animation" }
